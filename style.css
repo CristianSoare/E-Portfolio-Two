@@ -580,6 +580,7 @@ PROJECTS
 .project__img{
     width: 100%;
     transition: all 300ms ease;
+    display: flex;
 }
 
 .project__wrapper{
