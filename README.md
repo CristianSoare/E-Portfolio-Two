@@ -6,4 +6,4 @@ My personal E-Portfolio featureing:
 
   - Used free EmailJS API to receive emails to my personal email from website;
   
-  -  Provided support for search engine optimisation for higher indexing through Google’s search engine crawler;
+  - Provided support for search engine optimisation for higher indexing through Google’s search engine crawler;
