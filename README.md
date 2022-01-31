@@ -18,6 +18,7 @@ My personal E-Portfolio featuring:
 
   - Served static assets with efficient cache policy by setting the Cache-Control to max-age 600 seconds;
 
+!['Performance Dashboard'](assets/performance_dash.png)
 
 
 
