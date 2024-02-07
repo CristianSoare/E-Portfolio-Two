@@ -33,7 +33,7 @@ function contact(event) {
 
     emailjs
         .sendForm(
-            'service_mni4fwk',
+            'service_i41dpyl',
             'template_qg8t5aq',
             event.target,
             'user_XoshOd2QOStOI8Uf3oleQ'
